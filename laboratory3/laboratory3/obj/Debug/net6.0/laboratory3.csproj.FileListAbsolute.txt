@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.exe
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.deps.json
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.runtimeconfig.json
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.dll
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.pdb
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.dll
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\refint\laboratory3.dll
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.pdb
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.genruntimeconfig.cache
+C:\Users\ACER\Desktop\OOP\laboratory3\laboratory3\obj\Debug\net6.0\ref\laboratory3.dll
